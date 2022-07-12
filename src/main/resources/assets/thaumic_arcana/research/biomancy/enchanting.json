@@ -239,33 +239,31 @@
         }
       ],
       "addenda": [
+
         {
           "text": "research.thaumic_arcana.creature_enchant_advanced.spider_limbs",
           "required_research": [
             "CREATURE_ENCHANT_ADVANCED@2"
           ]
-        }
-
-	{
+        },
+	    {
           "text": "research.thaumic_arcana.creature_enchant_advanced.strength",
           "required_research": [
             "CREATURE_ENCHANT_ADVANCED@2"
           ]
         },
-
-	{
+	    {
           "text": "research.thaumic_arcana.creature_enchant_advanced.speed",
           "required_research": [
             "CREATURE_ENCHANT_ADVANCED@2"
           ]
         },
-
-	{
+	    {
           "text": "research.thaumic_arcana.creature_enchant_advanced.vitality",
           "required_research": [
             "CREATURE_ENCHANT_ADVANCED@2"
           ]
-        },
+        }
       ]
     },
     {
@@ -396,6 +394,7 @@
         }
       ],
       "addenda": [
+
         {
           "text": "research.thaumic_arcana.enchant_modification.base",
           "required_research": [
@@ -437,6 +436,7 @@
         }
       ],
       "addenda": [
+
         {
           "text": "research.thaumic_arcana.creature_enchant_negation.fertile",
           "required_research": [
@@ -640,38 +640,40 @@
           "text": "research.thaumic_arcana.creature_enchant_advanced2.stage.3",
 
           "recipes": [
-	    "thaumic_arcana:agility_enchanting_powder_magical",
+		    "thaumic_arcana:agility_enchanting_powder_magical",
             "thaumic_arcana:health_boost_enchanting_powder_advanced",
             "thaumic_arcana:haste_enchanting_powder_advanced",
             "thaumic_arcana:productivity_enchanting_powder_basic"
           ]
         }
       ],
-    "addenda":[{
-      "text": "research.thaumic_arcana.creature_enchant_advanced2.agility",
-      "required_research": [
-        "CREATURE_ENCHANT_ADVANCED2@2"
+      "addenda": [
+
+        {
+		  "text": "research.thaumic_arcana.creature_enchant_advanced2.agility",
+          "required_research": [
+            "CREATURE_ENCHANT_ADVANCED2@2"
+          ]
+        },
+        {
+          "text": "research.thaumic_arcana.creature_enchant_advanced2.health_boost",
+          "required_research": [
+            "CREATURE_ENCHANT_ADVANCED2@2"
+          ]
+        },
+        {
+          "text": "research.thaumic_arcana.creature_enchant_advanced2.haste",
+          "required_research": [
+            "CREATURE_ENCHANT_ADVANCED2@3"
+          ]
+        },
+        {
+          "text": "research.thaumic_arcana.creature_enchant_advanced2.productivity",
+          "required_research": [
+            "CREATURE_ENCHANT_ADVANCED2@3"
+          ]
+        }
       ]
-    },
-      {
-        "text": "research.thaumic_arcana.creature_enchant_advanced2.health_boost",
-        "required_research": [
-          "CREATURE_ENCHANT_ADVANCED2@2"
-        ]
-      },
-      {
-        "text": "research.thaumic_arcana.creature_enchant_advanced2.haste",
-        "required_research": [
-          "CREATURE_ENCHANT_ADVANCED2@3"
-        ]
-      },
-      {
-        "text": "research.thaumic_arcana.creature_enchant_advanced2.productivity",
-        "required_research": [
-          "CREATURE_ENCHANT_ADVANCED2@3"
-        ]
-      }
-    ]
     },
     {
       "key": "CREATURE_ENCHANT_REMOVAL",
