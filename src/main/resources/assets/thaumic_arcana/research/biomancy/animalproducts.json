@@ -4,7 +4,8 @@
       "key": "FLESH_GROWTH",
       "name": "research.thaumic_arcana.flesh_growth.title",
       "icons": [
-        "minecraft:porkchop",
+        "minecraft:egg",
+	"minecraft:porkchop",
         "minecraft:chicken",
         "minecraft:mutton",
         "minecraft:beef"
