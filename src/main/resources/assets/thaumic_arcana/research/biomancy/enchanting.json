@@ -240,11 +240,32 @@
       ],
       "addenda": [
         {
-          "text": "research.thaumic_arcana.creature_enchant.creature_enchanter_strength",
+          "text": "research.thaumic_arcana.creature_enchant_advanced.spider_limbs",
           "required_research": [
             "CREATURE_ENCHANT_ADVANCED@2"
           ]
         }
+
+	{
+          "text": "research.thaumic_arcana.creature_enchant_advanced.strength",
+          "required_research": [
+            "CREATURE_ENCHANT_ADVANCED@2"
+          ]
+        },
+
+	{
+          "text": "research.thaumic_arcana.creature_enchant_advanced.speed",
+          "required_research": [
+            "CREATURE_ENCHANT_ADVANCED@2"
+          ]
+        },
+
+	{
+          "text": "research.thaumic_arcana.creature_enchant_advanced.vitality",
+          "required_research": [
+            "CREATURE_ENCHANT_ADVANCED@2"
+          ]
+        },
       ]
     },
     {
@@ -619,8 +640,8 @@
           "text": "research.thaumic_arcana.creature_enchant_advanced2.stage.3",
 
           "recipes": [
+	    "thaumic_arcana:agility_enchanting_powder_magical",
             "thaumic_arcana:health_boost_enchanting_powder_advanced",
-            "thaumic_arcana:agility_enchanting_powder_magical",
             "thaumic_arcana:haste_enchanting_powder_advanced",
             "thaumic_arcana:productivity_enchanting_powder_basic"
           ]
