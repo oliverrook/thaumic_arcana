@@ -1,11 +1,11 @@
 Things to fix
 
-[_] Some recipes in Thaumonomicon are not being shown properly;
+* Some recipes in Thaumonomicon are not being shown properly;
 
-[_] Add Incubated Egg's recipe to a research;
+* Add Incubated Egg's recipe to a research;
 
-[_] Add missing textures;
+* Add missing textures;
 
-[_] Add some missing items to Thaumonomicon;
+* Add some missing items to Thaumonomicon;
 
-[_] ???
+* ???
