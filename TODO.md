@@ -6,6 +6,8 @@ Things to fix
 
 * Add missing textures;
 
+* (Maybe) Change the texture for the Enchantment Effect icon in Thaumonomicon;
+
 * Add some missing items to Thaumonomicon;
 
 * Fix grammar in Thaumonomicon entries;
