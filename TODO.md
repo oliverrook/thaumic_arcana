@@ -8,4 +8,4 @@ Things to fix
 
 * Add some missing items to Thaumonomicon;
 
-* ???
+* Fix grammar in Thaumonomicon entries;
