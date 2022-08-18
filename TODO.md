@@ -1,13 +1,26 @@
 THINGS TO FIX
 
-* Some recipes in Thaumonomicon are not being shown properly;
-  - 
+* Some recipes in Thaumonomicon are not being shown properly in the following researches;
+  - Bestialchemy
+  - Slime Meat
 
-* Add Incubated Egg's recipe to a research in Thaumonomicon;
+* Add recipes to a research in Thaumonomicon (maybe creating a new one) for;
+  - Incubated Egg
+  - Nutritious Mix
+  - Organic Curiosity
+  - Vaporous Curiosity
+  - Infused Curiosity
+  - Animated Curiosity
+  - Aura Wood Sapling
+  - Research Results
+  - All the Infused Slime Balls
 
 * Add some missing items to Thaumonomicon;
 
-* (Maybe) Change the texture for the Enchantment Effect icon in Thaumonomicon;
+* (Maybe) Change the texture for some icon entries in Thaumonomicon;
+  - Enchantment Effect > less thin
+  - Material Studies: Hay > change to hay bayle
+  - Creature Enchant Modifier: Negation > wrong powder
 
 * Fix grammar in Thaumonomicon entries;
 
