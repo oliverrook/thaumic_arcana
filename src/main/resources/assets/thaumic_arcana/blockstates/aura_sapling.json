@@ -1,0 +1,14 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "transform": "forge:default-block",
+        "model": "cross",
+        "textures": { "cross": "thaumic_arcana:blocks/sapling_aura" }
+    },
+    "variants": {    
+        "normal": [{}], "inventory": [{"model": "forge:item-layer", "transform": "forge:default-item",
+            "textures": { "layer0": "thaumic_arcana:blocks/sapling_aura" }}],
+        "stage": { "0":{"model": "thaumic_arcana:aura_sapling"}, "1":{}, "2":{"model": "thaumic_arcana:aura_sapling"}, "3":{"model": "thaumic_arcana:aura_sapling"}, "4":{"model": "thaumic_arcana:aura_sapling"} }        
+    }
+}
