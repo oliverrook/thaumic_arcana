@@ -5,8 +5,8 @@
  *    "stage=3": { "model": "thaumic_arcana:silver_oak_sapling" },
  *    "stage=2": { "model": "thaumic_arcana:silver_oak_sapling" }
  */
-    "normal": {
-      "model": "thaumic_arcana:silver_oak_sapling"
-    }
+      "normal": {
+        "model": "thaumic_arcana:silver_oak_sapling"
+      }
   }
 }
