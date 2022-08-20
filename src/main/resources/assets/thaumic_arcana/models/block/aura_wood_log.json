@@ -1,5 +1,5 @@
 {
-	"parent": "block/block",
+	"parent": "block/aura_wood_log",
 	"textures": {
 		"0": "thaumic_arcana:blocks/aura_wood_log",
 		"blade": "thaumic_arcana:blocks/aura_wood_log_top",
