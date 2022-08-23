@@ -183,6 +183,15 @@ tile.thaumic_arcana.paving_stone_enable_enchants.name=Paving Stone of Binding Em
 tile.thaumic_arcana.paving_stone_disable_enchants.name=Paving Stone of Binding Disempowerment
 
 # #### #
+# Foci #
+# #### #
+thaumic_arcana.enable_creature_enchants.name=Empowerment
+thaumic_arcana.enable_creature_enchants.text=Gives the property of be enchanted to any creature.
+
+thaumic_arcana.disable_creature_enchants.name=Disempowerment
+thaumic_arcana.disable_creature_enchants.text=Any creature affected become unable to be enchanted.
+
+# #### #
 # Keys #
 # #### #
 key.thamic_arcana.category=Thaumic Arcana
