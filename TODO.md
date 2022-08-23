@@ -23,10 +23,19 @@ THINGS TO FIX
   - Creature Enchant Modifier: Negation > wrong powder
 
 * Fix grammar in Thaumonomicon entries;
+  - Some small mistakes; - ALMOST DONE (I think...)
+
+* Add the Foci Effects' Texts; - DONE
+
+  - thaumic_arcana.enable_creature_enchants.name=Empowerment
+  - thaumic_arcana.enable_creature_enchants.text=Gives the property of be enchanted to any creature.
+
+  - thaumic_arcana.disable_creature_enchants.name=Disempowerment
+  - thaumic_arcana.disable_creature_enchants.text=Any creature affected become unable to be enchanted.
 
 * Add missing textures;
   - Taint Wine Trunk (the top/bottom texture not showing properly) - DONE
   - Mind Inhibitor - DONE (provisory texture)
-  - Aura Leaves (side and top) - DONE (provisory texture)
-  - Aura Wood Log - DONE (provisory texture) (the Aura Wood still renders it the wrong way when the sapling grows)
+  - Aura Leaves - DONE (provisory texture)
+  - Aura Wood Log (side and top) - DONE (provisory texture) (the Aura Wood still renders it the wrong way when the sapling grows)
   - Aura Wood Sapling - DONE (provisory texture)
