@@ -4,6 +4,11 @@ THINGS TO FIX
   - Bestialchemy
   - Slime Meat
 
+* Fix the wrong required item in the 2/3 stage in Creature Enchant Modification research;
+  - The "Enchantment Modifier Powder" with *Normal* effects is shown, but the non-effect powder is the right required item to be consumed (the black one)
+
+* Fix a bug with Biomancy's draws in the Research Table where the required items to be consumed are NOT getting consumed at all;
+
 * Add recipes to a research in Thaumonomicon (maybe creating a new one) for;
   - Incubated Egg
   - Nutritious Mix
@@ -26,7 +31,6 @@ THINGS TO FIX
   - Some small mistakes; - ALMOST DONE (I think...)
 
 * Add the Foci Effects' Texts; - DONE
-
   - thaumic_arcana.enable_creature_enchants.name=Empowerment
   - thaumic_arcana.enable_creature_enchants.text=Gives the property of be enchanted to any creature.
 
