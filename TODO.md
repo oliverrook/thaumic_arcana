@@ -42,7 +42,7 @@ THINGS TO FIX
 
 * Add missing textures;
   - Taint Wine Trunk (the top/bottom texture not showing properly) - DONE
-  - Mind Inhibitor - DONE (provisory texture)
+  - Mind Inhibitor - DONE (provisory texture (recolor from mind controller from Explosives Plus))
   - Aura Leaves - DONE (provisory texture)
   - Aura Wood Log (side and top) - DONE (provisory texture) (the Aura Wood still renders it the wrong way when the sapling grows)
   - Aura Wood Sapling - DONE (provisory texture)
