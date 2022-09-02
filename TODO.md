@@ -37,6 +37,9 @@ THINGS TO FIX
   - thaumic_arcana.disable_creature_enchants.name=Disempowerment
   - thaumic_arcana.disable_creature_enchants.text=Any creature affected become unable to be enchanted.
 
+* Add missing entries;
+  - research.ENCHANT_MODIFICATION@1.text=(*missing text*)
+
 * Add missing textures;
   - Taint Wine Trunk (the top/bottom texture not showing properly) - DONE
   - Mind Inhibitor - DONE (provisory texture)
