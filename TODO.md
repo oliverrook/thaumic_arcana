@@ -4,7 +4,7 @@ THINGS TO FIX
   - Bestialchemy
   - Slime Meat
 
-* Fix the wrong required item in the 2/3 stage in Creature Enchant Modification research;
+* Fix the wrong required item in the 2/3 stage in Creature Enchant Modification research (maybe this is happening with Enchantment Focusing 2/3 too);
   - The "Enchantment Modifier Powder" with *Normal* effects is shown, but the non-effect powder is the right required item to be consumed (the black one)
 
 * Fix a bug with Biomancy's draws in the Research Table where the required items to be consumed are NOT getting consumed at all;
