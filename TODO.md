@@ -20,6 +20,8 @@ THINGS TO FIX
   - Research Results
   - All the Infused Slime Balls
 
+* Make (almost) all Infused Slime Balls have a functional effect;
+
 * Add some missing items to Thaumonomicon;
 
 * (Maybe) Change the texture for some icon entries in Thaumonomicon;
@@ -44,5 +46,9 @@ THINGS TO FIX
   - Taint Wine Trunk (the top/bottom texture not showing properly) - DONE
   - Mind Inhibitor - DONE (provisory texture (recolor from mind controller from Explosives Plus))
   - Aura Leaves - DONE (provisory texture)
-  - Aura Wood Log (side and top) - DONE (provisory texture) (the Aura Wood still renders it the wrong way when the sapling grows)
+  - Aura Wood Log (side and top) - DONE (provisory texture)
   - Aura Wood Sapling - DONE (provisory texture)
+
+* Finish some block functionalities:
+  - The Aura Wood still renders it the wrong way when the Aura Wood Sapling grows
+  - Aura Leaves, Aura Wood Sapling and Aura Wood Log doesn't have a main harvesting tool to be broken easely, nor funcional as pretended yet (expl. Aura Leaves doesn't have transparency, Aura Wood Log isn't counting as wood material and Aura Wood Sapling doesn't seems have been treated as a crop/plant. Also, they doesn't have their respective sounds they should make when placed or broken)
