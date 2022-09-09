@@ -105,6 +105,7 @@ research.thaumic_arcana.enchant_modification.base=The normal modifier will rever
 
 research.thaumic_arcana.creature_enchant_negation.title=生物附魔强化：诅咒
 research.thaumic_arcana.creature_enchant_negation.stage.1=为了更好的强化生物，我还需要了解这些附魔所带来的负面效果。<BR>时间会告诉我所做的这一切是否正确...
+research.ENCHANT_MODIFICATION@1.text=Creature Modifier - Normal
 
 research.thaumic_arcana.creature_enchant_negation.fertile=生息附魔会降低生物出生率而非增加繁衍后代数量。
 research.thaumic_arcana.creature_enchant_negation.strength=力量附魔会削弱攻击伤害而非增加攻击伤害。
