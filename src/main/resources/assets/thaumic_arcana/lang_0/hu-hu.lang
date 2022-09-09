@@ -96,6 +96,7 @@ research.thaumic_arcana.plant_experiments.stage4=Now I think I understand how to
 
 research.thaumic_arcana.creature_enchant_negation.title=Creature Enchant Modifier: Negation
 research.thaumic_arcana.creature_enchant_negation.stage.1=To keep myself better organised, I'll note the known effects of negation here. If it's not listed, it will only be disabled.<BR>Only time will tell the horrors I'm about to find...
+research.ENCHANT_MODIFICATION@1.text=Creature Modifier - Normal
 
 research.thaumic_arcana.creature_enchant_negation.fertile=The Fertile enchant gives a chance to reduce birthrates.
 research.thaumic_arcana.creature_enchant_negation.strength=The Strength enchant will give weakness instead of strength.
