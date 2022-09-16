@@ -24,8 +24,9 @@ THINGS TO FIX
   - All the Infused Slime Balls
 
 * Make (almost) all Infused Slime Balls have a functional effect;
+  - And maybe try to get more functional Slime Balls to extra aspects from other addons
 
-* Add some missing items to Thaumonomicon;
+* Add some missing items to noted recipes in Thaumonomicon;
 
 * (Maybe) Change the texture for some icon entries in Thaumonomicon;
   - Enchantment Effect > less thin
@@ -55,3 +56,6 @@ THINGS TO FIX
 * Finish some block functionalities:
   - The Aura Wood still renders it the wrong way when the Aura Wood Sapling grows
   - Aura Leaves, Aura Wood Sapling and Aura Wood Log doesn't have a main harvesting tool to be broken easely, nor funcional as pretended yet (expl. Aura Leaves doesn't have transparency, Aura Wood Log isn't counting as wood material and Aura Wood Sapling doesn't seems have been treated as a crop/plant. Also, they doesn't have their respective sounds they should make when placed or broken)
+
+* Fix research
+  - Slime Armor cannot be completed because the Infused Slime Pickaxe needed to complete the research isn't craftable on that point
