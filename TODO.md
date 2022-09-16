@@ -27,6 +27,8 @@ THINGS TO FIX
   - And maybe try to get more functional effects from Slime Balls of aspects which came from other addons
 
 * Add some missing items to noted recipes in Thaumonomicon;
+  - Incubated Egg's recipe
+  - Slime Steak's recipe (?)
 
 * (Maybe) Change the texture for some icon entries in Thaumonomicon;
   - Enchantment Effect > less thin
@@ -58,4 +60,4 @@ THINGS TO FIX
   - Aura Leaves, Aura Wood Sapling and Aura Wood Log doesn't have a main harvesting tool to be broken easely, nor funcional as pretended yet (expl. Aura Leaves doesn't have transparency, Aura Wood Log isn't counting as wood material and Aura Wood Sapling doesn't seems have been treated as a crop/plant. Also, they doesn't have their respective sounds they should make when placed or broken)
 
 * Fix research
-  - Slime Armor cannot be completed because the Infused Slime Pickaxe needed to complete the research isn't craftable on that point;
+  - "Infused Armor" research cannot be completed because the Infused Slimey Pickaxe needed to complete it can't be crafted on that point;
