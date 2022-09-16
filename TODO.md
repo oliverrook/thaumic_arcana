@@ -24,7 +24,7 @@ THINGS TO FIX
   - All the Infused Slime Balls
 
 * Make (almost) all Infused Slime Balls have a functional effect;
-  - And maybe try to get more functional Slime Balls to extra aspects from other addons
+  - And maybe try to get more functional effects from Slime Balls of aspects which came from other addons
 
 * Add some missing items to noted recipes in Thaumonomicon;
 
@@ -33,8 +33,8 @@ THINGS TO FIX
   - Material Studies: Hay > change to hay bayle
   - Creature Enchant Modifier: Negation > wrong powder
 
-* Fix grammar in Thaumonomicon entries;
-  - Some small mistakes; - ALMOST DONE (I think...)
+* Fix grammar in Thaumonomicon entries; - ALMOST DONE
+  - Some small mistakes; - DONE (I think...)
 
 * Add the Foci Effects' Texts; - DONE
   - thaumic_arcana.enable_creature_enchants.name=Empowerment
@@ -46,7 +46,7 @@ THINGS TO FIX
 * Add missing entries; - DONE
   - research.ENCHANT_MODIFICATION@1.text=Creature Modifier - Normal
 
-* Add missing textures;
+* Add missing textures; - ALMOST DONE
   - Taint Wine Trunk (the top/bottom texture not showing properly) - DONE
   - Mind Inhibitor - DONE (provisory texture (recolor from mind controller from Explosives Plus))
   - Aura Leaves - DONE (provisory texture)
@@ -58,4 +58,4 @@ THINGS TO FIX
   - Aura Leaves, Aura Wood Sapling and Aura Wood Log doesn't have a main harvesting tool to be broken easely, nor funcional as pretended yet (expl. Aura Leaves doesn't have transparency, Aura Wood Log isn't counting as wood material and Aura Wood Sapling doesn't seems have been treated as a crop/plant. Also, they doesn't have their respective sounds they should make when placed or broken)
 
 * Fix research
-  - Slime Armor cannot be completed because the Infused Slime Pickaxe needed to complete the research isn't craftable on that point
+  - Slime Armor cannot be completed because the Infused Slime Pickaxe needed to complete the research isn't craftable on that point;
