@@ -60,4 +60,5 @@ THINGS TO FIX
   - Aura Leaves, Aura Wood Sapling and Aura Wood Log doesn't have a main harvesting tool to be broken easely, nor funcional as pretended yet (expl. Aura Leaves doesn't have transparency, Aura Wood Log isn't counting as wood material and Aura Wood Sapling doesn't seems have been treated as a crop/plant. Also, they doesn't have their respective sounds they should make when placed or broken)
 
 * Fix research
-  - "Infused Armor" research cannot be completed because the Infused Slimey Pickaxe needed to complete it can't be crafted on that point;
+  - In "Infused Slime Tools", it states that any of the five Infused Slimey Tools can be crafted even if the Non-Infused Slimey Tool is damaged, but it can't
+  - Because of what happens in the previous line, you can easily think that the pickaxe won't craft because it's bugged and it can't be used to complete "Infused Armor" research
